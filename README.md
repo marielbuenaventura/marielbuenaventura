@@ -39,6 +39,7 @@ Founder of **Pinay Tayo Toronto** — GTA Filipino community organization.
 100+ conversations with immigrant entrepreneurs validating the Islas Tech gap.
 
 ---
+
 ## 👥 Team
 
 **Mariel Buenaventura — Founder & CEO**
@@ -48,6 +49,7 @@ Strategy, product, technology, and operations
 **Marc Buenaventura — Co-Founder & Culinary Director**
 The Islas Hospitality Group | Pulo 101 Pilot
 Domain expert and first pilot client of Islas Tech
+
 ---
 
 ## 📂 Featured Project
