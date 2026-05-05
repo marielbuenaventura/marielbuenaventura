@@ -20,7 +20,7 @@ Bilingual: English & Tagalog. Filipino community first. Global diaspora vision.
 - 🟢 **Cohort 1 in progress — 14 / 100 founders**
 - 🧠 Every session trains the Islas AI on proprietary Founder Logic data
 - 🍽️ **Pilot: Pulo 101 Yacht Dinner — June 2026, Toronto Harbour**
-- 🔧 Stack: Claude API · n8n · Airtable · Framer · Snowflake · Python
+- 🔧 Stack: Claude API · n8n · Airtable · Framer · Snowflake · Python · SAP
 
 ---
 
