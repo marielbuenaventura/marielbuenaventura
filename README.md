@@ -1,5 +1,4 @@
 # Mariel Buenaventura
-
 **Founder & CEO — [Islas Tech](https://islastech.tech)**  
 Building the intelligence layer for global founders.  
 Codifying human grit into agentic AI.
@@ -12,7 +11,6 @@ Codifying human grit into agentic AI.
 ---
 
 ## 🚀 Currently Building
-
 **[Islas Tech](https://islastech.tech)** — An end-to-end AI platform 
 guiding immigrant entrepreneurs from first business idea to Year 5.  
 Bilingual: English & Tagalog. Filipino community first. Global diaspora vision.
@@ -25,7 +23,6 @@ Bilingual: English & Tagalog. Filipino community first. Global diaspora vision.
 ---
 
 ## 🏗️ What I'm Building Toward
-
 | Phase | Timeline | Milestone |
 |---|---|---|
 | Founder Data Sprint | Now · May 2026 | 100-founder cohort · proprietary dataset |
@@ -35,21 +32,29 @@ Bilingual: English & Tagalog. Filipino community first. Global diaspora vision.
 
 ---
 
-## 🎓 Credentials
+## 🎓 Credentials & Active Learning
 
-- Rotman Executive Program — Generative & Agentic AI (May 2026)
-- Snowflake Data Engineering L150 / L200 / L250 (April 2026)
-- NASBA — AI in Finance & Accounting (April 2026)
-- Python Essential Training — LinkedIn Learning (April 2026)
-- Cisco Python Essentials 1 (April 2026)
-- CPA Ontario PEP Candidate
-- SAP FI/CO — Accenture Manila
-- Yardi Voyager — The Daniels Corporation
+### 2026 Certifications
+- **GitHub Actions Cert Prep** — Microsoft Press · LinkedIn Learning (May 2026)
+- **Rotman Executive Program** — Generative & Agentic AI for Business (May 2026)
+- **Snowflake Data Engineering** — L150 / L200 / L250 (April 2026)
+- **Python Essential Training** — LinkedIn Learning (April 2026)
+- **Cisco Python Essentials 1** (April 2026)
+- **NASBA** — AI in Finance & Accounting (April 2026)
+
+### Active Programs & Access
+- 🎓 **GitHub Student Developer Pack** (Active through April 2028)
+- 📚 **SAP Learning Hub Student Edition** (12-month access · 2 free exam attempts)
+- 🌐 **Notion Education Plus**
+
+### Professional Credentials
+- **CPA Ontario PEP** — In progress
+- **SAP FI/CO** — Accenture Manila
+- **Yardi Voyager** — The Daniels Corporation
 
 ---
 
 ## 🌴 Background
-
 9 years co-founding and operating **Islas Filipino BBQ & Bar** 
 in Toronto (2017–2025) under Buenaventura 11926 Inc.
 
@@ -65,7 +70,6 @@ Founder of **Pinay Tayo Toronto** — GTA Filipino community organization.
 ---
 
 ## 👥 Team
-
 **Mariel Buenaventura — Founder & CEO**  
 CPA Ontario PEP · Rotman GenAI · Snowflake Certified  
 Strategy, product, technology, and operations
@@ -77,7 +81,6 @@ Domain expert and first pilot client of Islas Tech
 ---
 
 ## 📁 Featured Project
-
 [![Islas Tech R&D](https://img.shields.io/badge/ISLAS_TECH-AI_Platform_R%26D-1a4f47?style=for-the-badge&logo=github)](https://github.com/marielbuenaventura/islas-tech-rd)
 
 ---
