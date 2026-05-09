@@ -1,88 +1,111 @@
-# Mariel Buenaventura
-**Founder & CEO — [Islas Tech](https://islastech.tech)**  
-Building the intelligence layer for global founders.  
-Codifying human grit into agentic AI.
+# 👋 Hi, I'm Mariel Buenaventura
 
-📍 Toronto, Ontario, Canada  
-🌐 [islastech.tech](https://islastech.tech)  
-💼 [LinkedIn](https://linkedin.com/in/mariel-buenaventura-50a366143)  
-📧 yhelbuenaventura@gmail.com
+## Finance & AI Professional 
+
+I'm a finance professional with 20 years of experience in accounting, financial modeling, and operational transformation. Currently seeking **full-time remote opportunities in Transaction Services, Corporate Development, or Finance Operations**.
 
 ---
 
-## 🚀 Currently Building
-**[Islas Tech](https://islastech.tech)** — An end-to-end AI platform 
-guiding immigrant entrepreneurs from first business idea to Year 5.  
-Bilingual: English & Tagalog. Filipino community first. Global diaspora vision.
-
-- 🟢 **Cohort 1 in progress — 14 / 100 founders**
-- 🧠 Every session trains the Islas AI on proprietary Founder Logic data
-- 🍽️ **Pilot: Pulo 101 Yacht Dinner — June 2026, Toronto Harbour**
-- 🔧 Stack: Claude API · n8n · Airtable · Framer · Snowflake · Python · SAP
+### 🎯 Currently:
+- 🔍 **Seeking:** Full-time finance roles (Transaction Services, M&A, FP&A)
+- 📚 **Studying:** CPA PEP Core 2 (CPA Ontario)
+- 🎓 **Recently Completed:** SAP S/4HANA Finance Certification (2026)
+- 🛠️ **Building:** Islas Tech (AI platform for small business, part-time side project)
 
 ---
 
-## 🏗️ What I'm Building Toward
-| Phase | Timeline | Milestone |
-|---|---|---|
-| Founder Data Sprint | Now · May 2026 | 100-founder cohort · proprietary dataset |
-| Pulo 101 Live Pilot | June 2026 | 100-guest event · live platform proof |
-| Islas Tech API | Late 2026 | Digital Co-Founders deployable at scale |
-| Global Expansion | 2027+ | Philippines diaspora → Silicon Valley → everywhere |
+### 💼 Professional Experience:
+- **Finance & AI Consultant** — LBO modeling, DCF valuation, AI-powered financial automation
+- **Daniels Corporation** — Property Accountant (Real estate due diligence, QoE analysis)
+- **Accenture Philippines** — SAP FI/CO implementation & enterprise accounting
+- **Scotiabank** — Mortgage operations & banking compliance
+- **8-Year Entrepreneurship** — Co-founded & scaled hospitality business (exited Dec 2025)
 
 ---
 
-## 🎓 Credentials & Active Learning
+### 🛠️ Tech Stack:
+**Finance & Modeling:**
+- Excel (Advanced: VBA, Power Query, Financial Models)
+- SAP S/4HANA (GL, AP, AR, Cost Centers)
+- LBO Models, DCF Valuation, 3-Statement Models
 
-### 2026 Certifications
-- **GitHub Actions Cert Prep** — Microsoft Press · LinkedIn Learning (May 2026)
-- **Rotman Executive Program** — Generative & Agentic AI for Business (May 2026)
-- **Snowflake Data Engineering** — L150 / L200 / L250 (April 2026)
-- **Python Essential Training** — LinkedIn Learning (April 2026)
-- **Cisco Python Essentials 1** (April 2026)
-- **NASBA** — AI in Finance & Accounting (April 2026)
+**Programming & Automation:**
+- Python (pandas, openpyxl, financial automation)
+- SQL (Basic queries, data analysis)
+- Power BI, Snowflake
+- Git, GitHub
 
-### Active Programs & Access
-- 🎓 **GitHub Student Developer Pack** (Active through April 2028)
-- 📚 **SAP Learning Hub Student Edition** (12-month access · 2 free exam attempts)
-- 🌐 **Notion Education Plus**
-
-### Professional Credentials
-- **CPA Ontario PEP** — In progress
-- **SAP FI/CO** — Accenture Manila
-- **Yardi Voyager** — The Daniels Corporation
+**Business Systems:**
+- Yardi Voyager, QuickBooks
+- Zapier, n8n (workflow automation)
 
 ---
 
-## 🌴 Background
-9 years co-founding and operating **Islas Filipino BBQ & Bar** 
-in Toronto (2017–2025) under Buenaventura 11926 Inc.
+### 📊 Featured Projects:
+**🔹 LBO Valuation Model — UK Software Acquisition**
+- Built comprehensive 6-sheet Excel model (Assumptions, LBO Analysis, DCF, Comps, Precedent Trans, Summary)
+- Includes: Debt schedule, WACC calculation, IRR/MOIC returns analysis
+- Tools: Excel, advanced formulas, scenario modeling
 
-- 20+ staff · mid-to-high six-figure annual revenue
-- 3 annual Night Market events · 30–60 vendors each
-- COVID survival as a two-person team
-- Media: BlogTO · Foodism · Philippine Consulate 
-  (Filipino Restaurant Month 2022 & 2025)
+**🔹 Python LBO Template Generator**
+- Automated LBO model creation using Python (openpyxl)
+- Reduced model build time from 5 hours to 5 minutes
+- Input: Deal parameters → Output: Fully formatted Excel LBO model
 
-Founder of **Pinay Tayo Toronto** — GTA Filipino community organization.  
-100+ conversations with immigrant entrepreneurs validating the Islas Tech gap.
-
----
-
-## 👥 Team
-**Mariel Buenaventura — Founder & CEO**  
-CPA Ontario PEP · Rotman GenAI · Snowflake Certified  
-Strategy, product, technology, and operations
-
-**Marc Buenaventura — Co-Founder & Culinary Director**  
-The Islas Hospitality Group · Pulo 101 Pilot  
-Domain expert and first pilot client of Islas Tech
+**🔹 Islas Tech (Side Project)**
+- AI-powered back-office platform for immigrant entrepreneurs
+- Tech stack: Python, AI agents, automation workflows
+- Status: MVP in development (part-time, 6-8 hrs/week)
 
 ---
 
-## 📁 Featured Project
-[![Islas Tech R&D](https://img.shields.io/badge/ISLAS_TECH-AI_Platform_R%26D-1a4f47?style=for-the-badge&logo=github)](https://github.com/marielbuenaventura/islas-tech-rd)
+### 📫 How to Reach Me:
+- 📧 Email: **yhelbuenaventura@gmail.com**
+- 💼 LinkedIn: **[linkedin.com/in/mariel-buenaventura-50a366143](https://linkedin.com/in/mariel-buenaventura-50a366143)**
+- 📍 Location: **Toronto, ON, Canada**
+- 🌐 Portfolio: **islastech.tech** (Islas Tech project site)
 
 ---
 
-*"Proprietary data is the moat. We are building ours one founder at a time."*
+### 🎓 Education & Certifications:
+- **CPA Candidate** — CPA Ontario (Currently: PEP)
+- **SAP S/4HANA Finance Certification** — 2026
+- **Executive Certificate: Generative & Agentic AI** — Rotman School of Management (2026)
+- **Executive Certificate: MBA Essentials** — Rotman School of Management (2022)
+- **Registered Cost Accountant (RCA)** — Philippines (2012)
+
+---
+
+### 🌟 What I'm Looking For:
+I'm actively seeking **full-time remote or hybrid roles** in:
+- Transaction Services (Financial Due Diligence, M&A Support)
+- Corporate Development (Deal Analysis, Modeling)
+- FP&A (Financial Planning & Analysis)
+- Finance Operations (Process Improvement, SAP Implementation)
+
+**Open to:** Remote (Canada/US), Hybrid (Toronto), Contract-to-Hire
+
+---
+
+### 🚀 Fun Facts:
+- 🇵🇭 Proud Filipina immigrant and community builder
+- 🍜 Co-founded Filipino restaurant in Toronto (scaled through COVID, exited successfully)
+- 🤖 Combining 20 years of finance with AI/automation to modernize accounting
+- 📖 Lifelong learner: Always taking courses, reading, and building
+
+---
+
+### 📊 GitHub Stats:
+![Mariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+**💡 Let's connect!** I'm always open to discussing finance, AI automation, entrepreneurship, or collaboration opportunities.
+
+<!-- You can add badges here if you want:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+-->
+
+<img width="468" height="640" alt="image" src="https://github.com/user-attachments/assets/81c1d758-7f57-4f1c-a4ff-e9b876ec3890" />
