@@ -8,7 +8,7 @@ I'm a finance professional with 20 years of experience in accounting, financial 
 
 ### 🎯 Currently:
 - 🔍 **Seeking:** Full-time finance roles (Transaction Services, M&A, FP&A)
-- 📚 **Studying:** CPA PEP Core 2 (CPA Ontario)
+- 📚 **Studying:** CPA PEP Core 1 (CPA Ontario)
 - 🎓 **Recently Completed:** SAP S/4HANA Finance Certification (2026)
 - 🛠️ **Building:** Islas Tech (AI platform for small business, part-time side project)
 
