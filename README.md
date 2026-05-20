@@ -22,6 +22,15 @@
 **ERP/Finance:** SAP S/4HANA, Yardi Voyager  
 **AI/Automation:** Generative AI, n8n, Zapier  
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-green?style=flat-square&logo=sql)
+![Excel](https://img.shields.io/badge/Excel-Advanced-red?style=flat-square&logo=microsoftexcel)
+![SAP](https://img.shields.io/badge/SAP-S%2F4HANA%20Certified-darkblue?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-L150%2FL200%2FL250-9ef01a?style=flat-square&logo=snowflake)
+![CPA](https://img.shields.io/badge/CPA%20Ontario-PREP%20Candidate-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)
+![Available](https://img.shields.io/badge/Availability-Immediate-brightgreen?style=flat-square)
+
 ## Connect
 - 💼 [LinkedIn](https://linkedin.com/in/mariel-buenaventura-50a366143)
 - 🌐 [Islas Tech](https://islastech.tech)
