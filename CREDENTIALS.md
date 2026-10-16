@@ -18,7 +18,7 @@
 ## Courses completed (2026)
 
 **Finance and enterprise systems**
-- SAP S/4HANA Financial Accounting (LinkedIn Learning, Apr 2026)
+- SAP S/4HANA Essential Training (LinkedIn Learning, Apr 2026)
 - Leveraging Generative AI in Finance and Accounting (NASBA, Apr 2026)
 
 **AI and automation**
