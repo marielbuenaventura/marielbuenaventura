@@ -1,4 +1,4 @@
-x# Mariel Buenaventura
+**MARIEL BUENAVENTURA**
 
 **Founder, Islas Tech · Finance & Operations Professional · Toronto, Canada · working globally**
 
