@@ -7,7 +7,7 @@
 ## Education
 - **B.S. Accountancy**, Philippine School of Business Administration (2005)
 - **Rotman Executive Education**: Generative & Agentic AI for Business (May 2026)
-- **Rotman MBA Essentials Certificate** (Apr 2022)
+- **Rotman Executive Education**: MBA Essentials (Apr 2022)
 
 ## Professional certifications (Philippines)
 - Registered Cost Accountant, NIAT (Jun 2012)
