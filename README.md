@@ -10,8 +10,8 @@
 
 **[Islas Tech](https://islastech.tech)** is an AI co-founder for hospitality creators: chefs, bakers, caterers and pop-up founders. It helps them go from dream to open with less stress, less waste and more confidence.
 
-- **Framework:** DREAM → BUILD → OPEN → SCALE
-- **Stage:** BUILD, prototyping a Dream-to-Open planner and an event quote tool
+- **Framework:** DESIGN → BUILD → LAUNCH → SCALE
+- **Stage:** BUILD, prototyping a Design-to-Scale planner and an event quote tool
 - **Next:** Expand North Star 2026, Dubai (Dec 8–10), Canadian Pavilion
 
 ---
